@@ -202,4 +202,3 @@ with st.expander('Click to see notes'):
 
 # TODO
 # Format the excel export
-# Add a return loss percentage that will decay the returns each year. i.e. 2% loss in generation for solar/battery storage
