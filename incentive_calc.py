@@ -189,14 +189,15 @@ else:
                 unsafe_allow_html = True)
 
 
-with st.expander('Click to see notes'):
+with st.expander('Click for information about the incentives.'):
     st.markdown("""
-                Notes on individual incentives:
+                Information links on individual incentives:
+                * [Inflation Reduction Act](https://www.irs.gov/credits-and-deductions-under-the-inflation-reduction-act-of-2022)
                 * MACRS Bonus Depreciation
                 * State (CA) 10 Year Depreciation*
                 * ITC Tax Credit
                 * Energy Community Bonus-Tax Credit
-                * Utility Incentive
+                * Utility Incentive (SGIP)
                 * 179D Deduction
                 """)
 
