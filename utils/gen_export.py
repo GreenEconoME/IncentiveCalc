@@ -23,7 +23,7 @@ def gen_export(meta_orig, inc):
     incent_df.reset_index(inplace = True)
     reports = {'Metadata' : meta_df, 
                'Incentive Data' : incent_df}
-    with pd.ExcelWriter(export_data) as writer:
+    with pd.ExcelWriter(export_data, engine='xlsxwriter') as writer:
         workbook  = writer.book
 
         # Define a format for the headers
