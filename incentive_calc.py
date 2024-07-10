@@ -193,12 +193,12 @@ with st.expander('Click for information about the incentives.'):
     st.markdown("""
                 Information links on individual incentives:
                 * [Inflation Reduction Act](https://www.irs.gov/credits-and-deductions-under-the-inflation-reduction-act-of-2022)
-                * MACRS Bonus Depreciation
-                * State (CA) 10 Year Depreciation*
-                * ITC Tax Credit
-                * Energy Community Bonus-Tax Credit
-                * Utility Incentive (SGIP)
-                * 179D Deduction
+                * [MACRS Bonus Depreciation](https://www.irs.gov/credits-deductions/cost-recovery-for-qualified-clean-energy-facilities-property-and-technology)
+                * [State (CA) 10 Year Depreciation*](https://www.ftb.ca.gov/forms/2023/2023-3885-instructions.html)
+                * [ITC Tax Credit](https://www.irs.gov/forms-pubs/about-form-3468)
+                * [Energy Community Bonus-Tax Credit](https://energycommunities.gov/energy-community-tax-credit-bonus/)
+                * [Utility Incentive (SGIP)](https://www.selfgenca.com/)
+                * [179D Deduction](https://www.irs.gov/credits-deductions/energy-efficient-commercial-buildings-deduction)
                 """)
 
 # TODO
