@@ -201,5 +201,3 @@ with st.expander('Click for information about the incentives.'):
                 * [179D Deduction](https://www.irs.gov/credits-deductions/energy-efficient-commercial-buildings-deduction)
                 """)
 
-# TODO
-# Format the excel export
